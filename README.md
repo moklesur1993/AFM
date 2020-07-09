@@ -1,5 +1,5 @@
-# AFM
-novel deep learning application for prediction of CNTs-modified asphalt’s adhesion force.
+# A novel deep learning application for prediction of CNTs-modified asphalt’s adhesion force.
+
 
 This project is implemented in Keras. The steps applied are:
 
